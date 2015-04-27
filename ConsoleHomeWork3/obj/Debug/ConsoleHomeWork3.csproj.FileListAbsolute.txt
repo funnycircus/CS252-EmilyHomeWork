@@ -1,0 +1,5 @@
+C:\Users\funnycircus\Desktop\CS252-HomeWork\ConsoleHomeWork2\ConsoleHomeWork3\bin\Debug\ConsoleHomeWork3.exe.config
+C:\Users\funnycircus\Desktop\CS252-HomeWork\ConsoleHomeWork2\ConsoleHomeWork3\bin\Debug\ConsoleHomeWork3.exe
+C:\Users\funnycircus\Desktop\CS252-HomeWork\ConsoleHomeWork2\ConsoleHomeWork3\bin\Debug\ConsoleHomeWork3.pdb
+C:\Users\funnycircus\Desktop\CS252-HomeWork\ConsoleHomeWork2\ConsoleHomeWork3\obj\Debug\ConsoleHomeWork3.exe
+C:\Users\funnycircus\Desktop\CS252-HomeWork\ConsoleHomeWork2\ConsoleHomeWork3\obj\Debug\ConsoleHomeWork3.pdb
