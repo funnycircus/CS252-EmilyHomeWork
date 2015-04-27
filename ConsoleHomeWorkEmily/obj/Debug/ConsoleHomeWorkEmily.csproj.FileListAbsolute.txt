@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\ConsoleHomeWorkEmily\ConsoleHomeWorkEmily\bin\Debug\ConsoleHomeWorkEmily.exe.config
+\\psf\home\documents\visual studio 2013\Projects\ConsoleHomeWorkEmily\ConsoleHomeWorkEmily\bin\Debug\ConsoleHomeWorkEmily.exe
+\\psf\home\documents\visual studio 2013\Projects\ConsoleHomeWorkEmily\ConsoleHomeWorkEmily\bin\Debug\ConsoleHomeWorkEmily.pdb
+\\psf\home\documents\visual studio 2013\Projects\ConsoleHomeWorkEmily\ConsoleHomeWorkEmily\obj\Debug\ConsoleHomeWorkEmily.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\ConsoleHomeWorkEmily\ConsoleHomeWorkEmily\obj\Debug\ConsoleHomeWorkEmily.exe
+\\psf\home\documents\visual studio 2013\Projects\ConsoleHomeWorkEmily\ConsoleHomeWorkEmily\obj\Debug\ConsoleHomeWorkEmily.pdb
